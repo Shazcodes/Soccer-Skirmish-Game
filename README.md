@@ -10,7 +10,7 @@ Soccer Skirmish Game is a web-based game where players control a soccer player a
 
 ### 1. Interactive Canvas
 
-The game is played on a 500x500 canvas where the player's icon and soccer balls are rendered. Players can move the soccer player icon using the mouse.
+The game is played on a 500x500 canvas where the player and soccer balls are rendered. Players can move the soccer player using the mouse.
 
 [View Code](https://github.com/Shazcodes/Soccer-Skirmish-Game/blob/main/index.html)
 
