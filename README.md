@@ -4,7 +4,7 @@ This is a private project developed for my personal resume.
 
 ## Overview
 
-Soccer Skirmish Game is a web-based game where players control a soccer player icon and try to dodge incoming soccer balls. The game's difficulty can be adjusted, and players are scored based on the time they survive without being hit by a ball.
+Soccer Skirmish Game is a web-based game where players control a soccer player and try to dodge incoming soccer balls. The game's difficulty can be adjusted, and players are scored based on the time they survive without being hit by a ball.
 
 ## Features
 
