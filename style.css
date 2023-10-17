@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    /* Stack elements vertically */
+    align-items: center;
+    justify-content: center;
+    /* Center items horizontally */
+    height: 100vh;
+    background-color: #1d1c1c;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 10px;
+    /* Add padding for spacing */
+    border-radius: 5px;
+    /* Add rounded corners for a bordered appearance */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /* Add a subtle box shadow */
+}
+
+header {
+    text-align: center;
+    margin-bottom: 5px;
+    /* Adjust the margin as needed */
+}
+
+h1 {
+    font-size: 24px;
+    /* Adjust the font size as needed */
+    color: #000000;
+    margin-bottom: 5px;
+    /* Spacing below the title */
+}
+
+.soccer-ball {
+    font-size: 22px;
+    /* Adjust the size of the soccer ball emoji */
+}
+
+canvas {
+    display: block;
+    background-color: #ffffff;
+    /* Set the game area background color to white */
+    border: 1px solid #000000;
+    /* Add a black border around the game area */
+    margin-bottom: 5px;
+    /* Add margin at the bottom of the canvas */
+}
+
+.button-container {
+    text-align: center;
+    /* Center the content horizontally */
+    margin-top: 5px;
+    /* Add a little space from the game area */
+}
+
+button {
+    margin: 5px;
+    /* Add margin around all buttons */
+}
+
+#startButton {
+    margin-top: 5px;
+    /* Add margin at the top of the "Start Game" button */
+}
